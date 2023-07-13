@@ -1,9 +1,9 @@
 # Customer Segmentation with RFM Analysis
 ## Context:
-Online retail is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+This dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 ## Business Goal:
-I will be using the online retail transactional dataset to build a RFM clustering and choose the best set of customers, so that the company can target its customers efficiently.
+The company want you to use the online retail transactional dataset to build a RFM clustering to segment the customers, so that they can target its customers efficiently.
 
 ## Source of Dataset:
 This dataset was obtained from Kaggle: <a href="https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering">Online Retail Customer Clustering</a>
